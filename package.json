@@ -1,0 +1,23 @@
+{
+  "name": "media-alt-text-workflow-queue",
+  "version": "1.0.0",
+  "description": "WordPress plugin for streamlining alt text workflow",
+  "scripts": {
+    "build": "node build.js",
+    "build:plugin": "node build.js"
+  },
+  "keywords": [
+    "wordpress",
+    "plugin",
+    "accessibility",
+    "alt-text",
+    "a11y"
+  ],
+  "author": "Jesse Jaeger",
+  "license": "GPL-2.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jessejaeger/media-alt-text-workflow-queue.git"
+  }
+}
+

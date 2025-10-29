@@ -37,6 +37,9 @@ yarn-error.log
 dist/
 build/
 
+# Node build artifacts
+media-alt-text-workflow-queue-*.zip
+
 # OS
 Thumbs.db
 .DS_Store
