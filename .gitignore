@@ -1,0 +1,48 @@
+# WordPress
+*.log
+wp-config.php
+wp-content/advanced-cache.php
+wp-content/backup-db/
+wp-content/backups/
+wp-content/blogs.dir/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/uploads/
+wp-content/mu-plugins/
+wp-content/wp-cache-config.php
+wp-content/plugins/*
+wp-content/themes/*
+!wp-content/plugins/media-alt-text-workflow-queue/
+!wp-content/themes/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Composer
+/vendor/
+
+# Build files
+*.zip
+*.tar.gz
+dist/
+build/
+
+# OS
+Thumbs.db
+.DS_Store
+._*
+
+# Temporary
+*.tmp
+*.temp
+
