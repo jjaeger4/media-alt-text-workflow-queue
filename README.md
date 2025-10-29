@@ -61,8 +61,8 @@ See [readme.txt](readme.txt) for detailed changelog.
 
 ## 🐛 Bug Reports
 
-Found a bug? Please [open an issue](https://github.com/YOUR_USERNAME/media-alt-text-workflow-queue/issues).
+Found a bug? Please [open an issue](https://github.com/jjaeger4/media-alt-text-workflow-queue/issues).
 
 ## 💡 Feature Requests
 
-Have an idea? [Open an issue](https://github.com/YOUR_USERNAME/media-alt-text-workflow-queue/issues) with the "enhancement" label.
+Have an idea? [Open an issue](https://github.com/jjaeger4/media-alt-text-workflow-queue/issues) with the "enhancement" label.
